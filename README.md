@@ -20,6 +20,10 @@ I enjoy the web projects that will allow me the opportunity to grow my portfolio
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafdev365&show_icons=true)  
 
+
+### Recent Projects 
+<img src="https://github.com/ashrafdev365/creative-portfolio/blob/main/public/Hdsfome-min.png" alt='ashraf' width='120px' />  <img src="https://github.com/ashrafdev365/creative-portfolio/blob/main/public/sdfsdf.png" alt='ashraf' width='120px' />  <img src="" alt='ashraf' width='120px' />  <img src="" alt='ashraf' width='120px' />  
+
 <br />
 <br />
 
