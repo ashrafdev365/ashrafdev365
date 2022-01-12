@@ -6,8 +6,13 @@ Hi, I'm Ashraf, I'm a Front-end web developer with have a good amount of coding 
 I create websites using Javascript, and React.js. I specialize in creating custom websites.
 I enjoy the web projects that will allow me the opportunity to grow my portfolio. Thank you
 
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Languages & Tools I Use To Build Projects 
