@@ -9,7 +9,7 @@ I enjoy the web projects that will allow me the opportunity to grow my portfolio
 
 
 ## Languages I Use 
-<img src={https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-javascript.svg} alt='ashraf' />
+<img src={https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-javascript.svg} alt='ashraf' width='100px' />
 
 - 🔭 I’m currently working on My Own Project 
 - 🌱 I’m currently learning Back End Development 
