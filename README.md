@@ -1,8 +1,12 @@
 ![Front End Developer](https://pbs.twimg.com/profile_banners/1355130501124685824/1641975916/1500x500)
-### +Hi there 👋, I'm Ashraf
-#### Front End Developer
 
-Hi, I'm Ashraf, I'm a Front-end web developer with have a good amount of coding experience, I create websites using Javascript, and React.js. I specialize in creating custom websites. I enjoy the web projects that will allow me the opportunity to grow my portfolio. Thank you
+# +Hi👋, I'm Ashraf
+## Front End Developer
+
+Hi, I'm Ashraf, I'm a Front-end web developer with have a good amount of coding experience, 
+I create websites using Javascript, and React.js. I specialize in creating custom websites.
+I enjoy the web projects that will allow me the opportunity to grow my portfolio. Thank you
+
 
 Skills: JavaScript / React.js / Next.js / Firebase / HTML / CSS / SCSS
 
