@@ -8,8 +8,6 @@ I enjoy the web projects that will allow me the opportunity to grow my portfolio
 
 <br />
 <br />
-<br />
-<br />
 
 ## Languages & Tools I Use To Build Projects 
 <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-javascript.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-react-native.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/next-js.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-firebase.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/cypress.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-figma.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-css3.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-html-5.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/scss.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-material-ui.svg" alt='ashraf' width='80px' />  
@@ -17,9 +15,9 @@ I enjoy the web projects that will allow me the opportunity to grow my portfolio
 <br />
 <br />
 
-
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafdev365)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafdev365&show_icons=true)  
 
 <br />
