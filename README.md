@@ -20,9 +20,17 @@ I enjoy the web projects that will allow me the opportunity to grow my portfolio
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafdev365)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafdev365&show_icons=true)  
 
 <br />
 <br />
+
+### Active On Github
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashrafdev365)  
+
+<br />
+<br />
+
 
 ### Currently
 - 🔭 I’m currently working on My Own Project 
