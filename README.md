@@ -2,17 +2,20 @@
 
 # +Hi👋, I'm Ashraf A Front End Developer
 
-Hi, I'm Ashraf, I'm a Front-end web developer with have a good amount of coding experience, 
+Hi, I'm Ashraf, I'm a Front-end web developer with have a good amount of coding experience,
+
 I create websites using Javascript, and React.js. I specialize in creating custom websites.
+
 I enjoy the web projects that will allow me the opportunity to grow my portfolio. Thank you
 
 
 
 
-## Languages & Tools I Use To Build Projects 
-<img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-javascript.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-react-native.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/next-js.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-firebase.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/cypress.svg" alt='ashraf' width='80px' />
 
-<img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-figma.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-css3.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-html-5.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/scss.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-material-ui.svg" alt='ashraf' width='80px' />  
+
+
+## Languages & Tools I Use To Build Projects 
+<img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-javascript.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-react-native.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/next-js.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-firebase.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/cypress.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-figma.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-css3.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-html-5.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/scss.svg" alt='ashraf' width='80px' />   <img src="https://github.com/ashrafdev365/ashrafdev365/blob/3e86cd270fb7487c5096c65823dfde7d4493c533/Icons/icons8-material-ui.svg" alt='ashraf' width='80px' />  
 
 - 🔭 I’m currently working on My Own Project 
 - 🌱 I’m currently learning Back End Development 
