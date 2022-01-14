@@ -2,7 +2,7 @@
 
 # +Hi👋, I'm Ashraf A Front End Developer
 
-Hi, I'm Ashraf, I'm a Front-end web developer with have a good amount of coding experience,
+Hi, I'm Ashraf, I'm a Front-end web developer have a good amount of coding experience,
 I create websites using Javascript, and React.js. I specialize in creating custom websites.
 I enjoy the web projects that will allow me the opportunity to grow my portfolio. Thank you
 
